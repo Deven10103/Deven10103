@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deven10103
+- 👋 Hi, I’m Devendra Prasad
 - I believe in self-learning ✌️ 
 - 👀 I’m interested in learning about new technologies.
 - 🌱 I’m currently learning Web-development and preparing for my sems
