@@ -33,7 +33,7 @@ An embedded computer vision project for the NVIDIA Jetson Nano, using YOLOv8 and
 ## Contact📞
 
 I am open to connecting with professionals, mentors, and peers for collaborative opportunities and knowledge sharing.  
-You can reach me on Instagram: [deven__kshyp](https://instagram.com/deven__kshyp) or on gmail at [deve.prasad10103@gmail.com]
+You can reach me on Instagram: [deven__kshyp](https://instagram.com/deven__kshyp) or on gmail at [deven.prasad10103@gmail.com]
 
 ---
 
